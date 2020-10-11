@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         Random randomGen = new Random();
-        int posa = 3;
+        int posa = 3131;
 
         List<Account> accountList = new ArrayList<>();
 
